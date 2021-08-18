@@ -183,7 +183,7 @@ def raw_data(df):
     if raw_data_input == 'yes':
         print(df.head())
         while True:
-            more_raw_data = input("\nDo you want to see another 5 lines of raw data?\n").lower()
+            more_raw_data = input("\nWould you like to see another 5 lines of raw data?\n").lower()
             if more_raw_data == 'no':
                 break
             if more_raw_data not in raw_data_inputs:
