@@ -7,7 +7,7 @@
 Bikeshare
 
 ### Description
-Allows user to see bikeshare data for Chicago, New York City, and/or Washington D.C.
+Allows user to interact with bikeshare data for Chicago, New York City, and/or Washington D.C.
 
 ### Files used
 bikeshare.py
